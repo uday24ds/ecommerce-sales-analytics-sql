@@ -39,4 +39,4 @@ An end-to-end SQL analytics project analyzing e-commerce transactions and custom
 │   ├── customers.csv              # Customer demographics dataset (1,000 rows)
 │   └── orders.csv                 # Transaction dataset (10,000 rows)
 ├── ecommerce_sales_analysis.sql   # Complete SQL analysis script
-└── README.md                      # Project documentation
+└── README.md                      # Project documentationocumentation
